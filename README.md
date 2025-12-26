@@ -49,7 +49,7 @@ CS50P_FINAL_PROJECT/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CS50P_FINAL_PROJECT.git
+git clone https://github.com/VPK570/CS50P_Final_Project.git
 cd CS50P_FINAL_PROJECT
 ```
 
