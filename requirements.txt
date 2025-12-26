@@ -5,4 +5,5 @@ streamlit
 PyPDF2
 docx2txt
 pdfplumber
-pickle
+sentence-transformers
+torch
