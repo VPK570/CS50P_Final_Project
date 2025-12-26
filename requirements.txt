@@ -1,1 +1,8 @@
-pygame
+nltk
+spacy
+pandas
+streamlit
+PyPDF2
+docx2txt
+pdfplumber
+pickle
