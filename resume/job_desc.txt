@@ -1,0 +1,46 @@
+Job Description (Frontend Developer – React)
+
+Position: Frontend Developer (React.js)
+Location: Remote / Tampa, FL
+Experience: 3–6 years
+
+Job Summary:
+We are seeking a talented Frontend Developer with strong experience in React.js to join our dynamic team. The ideal candidate will have a proven track record of delivering high-quality web applications, collaborating with cross-functional teams, and optimizing performance.
+
+Responsibilities:
+
+Develop and maintain modern web applications using React.js and Node.js.
+
+Implement state management using Redux or Flux patterns.
+
+Optimize application performance and ensure responsive design.
+
+Collaborate with UX/UI designers and backend developers to integrate APIs.
+
+Follow best practices for code quality, testing, and documentation.
+
+Participate in CI/CD pipeline and DevOps processes.
+
+Requirements:
+
+3+ years of professional experience with React.js and JavaScript.
+
+Strong knowledge of HTML, CSS, and modern frontend frameworks.
+
+Experience with Redux, Flux, and component lifecycle optimization.
+
+Familiarity with Node.js and backend integration.
+
+Understanding of CI/CD and DevOps practices.
+
+Excellent communication skills and team collaboration.
+
+Experience with data visualization and performance optimization is a plus.
+
+Preferred Qualifications:
+
+Knowledge of PHP, SQL (MySQL/MongoDB), and C++ is a bonus.
+
+Bachelor’s degree in Computer Science, Information Technology, or related field.
+
+Prior experience in delivering enterprise-level web applications.

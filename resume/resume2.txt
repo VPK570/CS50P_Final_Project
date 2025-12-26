@@ -1,0 +1,51 @@
+Arjun Mehta
+Data Analyst
+
+Email: arjun.mehta@email.com
+Phone: 9876543210
+LinkedIn: linkedin.com/in/arjunmehta
+
+Professional Summary
+Detail-oriented Data Analyst with 4 years of experience in data cleaning,
+statistical analysis, and business intelligence. Skilled in Python, SQL,
+and Excel for extracting insights from large datasets.
+
+Work Experience
+
+Data Analyst
+InsightMetrics Pvt Ltd
+July 2019 – Present
+• Analyzed large datasets using Python and Pandas to identify trends.
+• Created dashboards using Tableau and Power BI for business reporting.
+• Wrote complex SQL queries for data extraction and transformation.
+• Collaborated with business stakeholders to define KPIs and metrics.
+
+Junior Data Analyst
+DataWorks Inc
+June 2017 – June 2019
+• Assisted in data validation and preprocessing tasks.
+• Automated reporting workflows using Python scripts.
+• Maintained documentation for data pipelines.
+
+Education
+
+Bachelor of Science in Statistics
+University of Delhi
+Graduated: 2017
+
+Skills
+
+Python
+Pandas
+NumPy
+SQL
+Excel
+Tableau
+Power BI
+Statistics
+Data Visualization
+
+Certifications
+
+Google Data Analytics Professional Certificate
+Microsoft Power BI Certification

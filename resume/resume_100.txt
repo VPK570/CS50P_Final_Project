@@ -1,0 +1,71 @@
+Glenn D. Young
+React.js Developer
+
+Email: glennyoung@email.com
+Phone: 925-249-2133
+LinkedIn: linkedin.com/in/glennyoung
+
+Professional Summary
+Highly skilled React.js Developer with 5 years of experience in JavaScript,
+React fundamentals including JSX, Virtual DOM, React Native, and Node.js.
+Experienced in building modern web applications, optimizing performance,
+and delivering projects on time. Strong background in CI/CD, DevOps,
+and collaborative software development.
+
+Work Experience
+
+React Developer
+BravDev
+April 2017 – Present
+• Developed and maintained React.js applications using JavaScript and Node.js.
+• Implemented state management using Redux and Flux patterns.
+• Optimized component lifecycle and application performance.
+• Created data visualization tools and integrated UI designs.
+• Collaborated with cross-functional teams to integrate APIs and frontend designs.
+• Followed documentation and best practices to stay current with new releases.
+• Participated in CI/CD pipelines and DevOps workflows.
+• Delivered projects within deadlines with high quality standards.
+
+Junior Java Developer
+ASPTech
+June 2013 – July 2016
+• Developed and tested web applications using Java and SQL.
+• Performed installation, configuration, and troubleshooting of software systems.
+• Wrote and optimized SQL queries in Oracle databases.
+
+Education
+
+Bachelor of Information Technology
+University of Tampa, FL
+Graduated: 2013
+
+Skills
+
+React.js
+JavaScript
+Redux
+Flux
+Node.js
+CI/CD
+DevOps
+CSS
+Git
+SEO Integration
+Data Visualization
+Excellent Communication
+Team Collaboration
+
+Programming Languages
+
+JavaScript
+Java
+PHP
+C++
+SQL
+MySQL
+MongoDB
+
+Achievements
+
+Oracle Certified Professional
+Speaker at React Advanced Conference
