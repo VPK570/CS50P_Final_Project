@@ -1,4 +1,6 @@
 # Resume ATS Analyzer
+## Video Demo: 
+https://youtu.be/3xJoIspfWBM
 
 A simple Applicant Tracking System (ATS) Resume Analyzer built using **Python**, **Streamlit**, and **NLP** techniques.
 This project compares resumes against a job description and generates an **ATS compatibility score out of 100**.
@@ -115,9 +117,6 @@ resume2.txt: 42.13/100
 ```
 
 ---
-
-## Demo Video
-https://youtu.be/3xJoIspfWBM
 
 ## License
 
